@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Michael Dorkenwald</title>
+    <link>https://mdork.github.io/publication-type/2/</link>
+      <atom:link href="https://mdork.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mdork.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://mdork.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised behaviour analysis and magnification (uBAM) using deep learning</title>
+      <link>https://mdork.github.io/publication/nature/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mdork.github.io/publication/nature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
